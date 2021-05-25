@@ -1,0 +1,75 @@
+body{
+    font-family: 'Baloo Bhai', cursive;
+    color:white;
+}
+
+.container{
+    background-color: black;
+}
+.nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active {
+  color: #ffffff;
+  background-color: #000;
+  border: 2px solid white;
+}
+.nav-tabs{
+     width: 100%
+  }
+.nav-tabs .nav-item {
+      margin-bottom: -1px;
+      width: 33.33%;}
+  
+.nav-tabs .nav-link {
+  
+  margin: 1px 4px;
+  text-align: center;
+  width: 99.99%;
+  background: white;
+  border-radius: 10px;
+  font-size: 1.3rem;
+  color: black;
+  margin-bottom: -1px;
+  } 
+  
+.row {
+  margin-right: -15px;
+  margin-left: 0px;}
+    
+.bg-secondary {
+  background-color: #000000!important;
+}
+.text-center-color{
+  color: black;
+}
+ /* Contact box label color */
+
+  .text-center {
+
+    color: white;
+}
+
+    label {
+      color: white;
+    }
+    .card-text p {
+      color: black;
+    }
+    .card-title {
+      margin-bottom: .75rem;
+      color: black;}
+
+      .card-text:last-child {
+        margin-bottom: 0;
+        color: black;
+      }
+
+.col-4{
+    position: relative;
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 7px;
+  }
+
+  .table-hover{
+    color: antiquewhite;
+  }
+
